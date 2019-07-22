@@ -115,9 +115,9 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Gmail"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:catharina0429.js@gmail.com
+      # url: mailto:catharina0429.js@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
