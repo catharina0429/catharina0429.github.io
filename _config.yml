@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Playing with Data"
+title                    : "Data Storyteller with Statistics"
 title_separator          : "-"
 subtitle                 : "Catharina's blog" # site tagline that appears below site title in masthead
 name                     : "Catharina J"
-description              : "블로그 테스트 중"
+description              : "종종 관심있는 분야위주로 업로드 예정."
 url                      : "https://catharina0429.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "catharina0429/catharina0429" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -109,9 +109,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Catharina(Jisoo)"
+  name             : "Catharina Jisoo Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a curiosity person."
+  bio              : "Working as a Data Analyst at start-up company"
   location         : "Somewhere"
   email            :
   links:
