@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data-Storyteller-with-Statistics"
+title                    : "Data Storyteller with Statistics"
 title_separator          : "-"
 subtitle                 : "Catharina's blog" # site tagline that appears below site title in masthead
 name                     : "Catharina J"
@@ -115,7 +115,7 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
        url: mailto:catharina0429.js@gmail.com
     - label: "Website"
