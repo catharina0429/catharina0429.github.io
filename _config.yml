@@ -21,7 +21,7 @@ locale                   : "en-US"
 title                    : "Data Storyteller with Statistics"
 title_separator          : "-"
 subtitle                 : "Catharina's blog" # site tagline that appears below site title in masthead
-name                     : "Catharina J"
+name                     : "Catharina Jisoo Park"
 description              : "종종 관심있는 분야위주로 업로드 예정."
 url                      : "https://catharina0429.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Catharina Jisoo Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Working as a Data Analyst at start-up company"
+  bio              : "Working as a Data Analyst"
   location         : "Somewhere"
   email            :
   links:
@@ -129,7 +129,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/catharina0429/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
