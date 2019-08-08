@@ -18,5 +18,8 @@ I been working with `R` since university student, however, there are stil some c
 
 * Post2
   한국어 테스트 중
+  <br>
   日本語　テスト
-* Post3
+
+* Markdown cheetshet
+There are also `RMarkdown` methods, and, it is very similar each other.
