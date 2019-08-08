@@ -10,7 +10,8 @@ I been working with `R` since university student, however, there are stil some c
 * Several type of apply functions
 
 | function name | characteristics | usage |
-|:---|:---:|---:|
+----| ---- | ----
+```|:---|:---:|---:|```
 | apply | apply to row(1), column(2) directly | apply(data, 1, min) # apply to the 1st row of data min functions |
 | lapply | return to `list` | lapply(data, function) |
 | sapply | return to `vector` | sapply(data, function) |
