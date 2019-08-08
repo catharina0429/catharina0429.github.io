@@ -1,5 +1,5 @@
 ---
-title: "Apply functions in R"
+title: "Apply functions in R(Test)"
 date: 2019-08-08 11:22:00 -4000
 categories: R
 ---
@@ -17,4 +17,6 @@ I been working with `R` since university student, however, there are stil some c
 | sapply | return to `vector` | sapply(data, function) |
 
 * Post2
+  한국어 테스트 중
+  日本語　テスト
 * Post3
